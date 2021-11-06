@@ -1,13 +1,12 @@
 {
   "title": "BiOptimizers",
-  "name": "BiOptimizers-test",
+  "name": "bioptimizers-test",
   "version": "7.0.5",
   "description": "take-home-test",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "tailwindcss": "^2.2.19"
+    "express": "^4.17.1"
   }
 }
